@@ -1,0 +1,1 @@
+this is a test string to test huffman compression algorithm efficiency on a small scale

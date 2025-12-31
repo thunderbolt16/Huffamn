@@ -1,0 +1,3 @@
+/Users/nachiketanalin/Desktop/HuffmanCompressor/build/CMakeFiles/huffman_tool.dir
+/Users/nachiketanalin/Desktop/HuffmanCompressor/build/CMakeFiles/edit_cache.dir
+/Users/nachiketanalin/Desktop/HuffmanCompressor/build/CMakeFiles/rebuild_cache.dir
